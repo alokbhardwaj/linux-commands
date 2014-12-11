@@ -1,0 +1,15 @@
+ls
+ls -l
+ls -a
+ls -la
+touch 
+rm
+rm -r				permanenty removes the directory
+rm -rf
+mkdir
+rmdir   			removes only the empty directory
+find .				finds everythind in the current directory
+find . -name "any name"
+find . -type d			return all directories in current directory
+history 			list the history of commands
+man ls				manual of a command  here ls
